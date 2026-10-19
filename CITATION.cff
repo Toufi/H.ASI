@@ -1,0 +1,38 @@
+# The paper DOI has not yet been supplied. No identifier is fabricated here.
+# Once assigned, replace the two commented DOI lines with the SAME paper-version DOI.
+cff-version: "1.2.0"
+message: "Please cite the HASI white paper using the preferred report citation below."
+title: "HASI human associated consensus and sovereign cooperation"
+version: "0.828d"
+license: "CC-BY-SA-4.0"
+url: "https://hasi.mosaic.directory/"
+# doi: "ADD_ACTUAL_PAPER_VERSION_DOI"
+authors:
+  - family-names: "Saliba"
+    given-names: "Toufi"
+  - family-names: "Moir"
+    given-names: "Robert"
+  - family-names: "Toliver"
+    given-names: "Dann"
+  - family-names: "Herda"
+    given-names: "Patrick"
+  - family-names: "Rowe"
+    given-names: "Barry"
+preferred-citation:
+  type: report
+  title: "HASI human associated consensus and sovereign cooperation"
+  version: "0.828d"
+  year: 2026
+  url: "https://hasi.mosaic.directory/"
+  # doi: "ADD_ACTUAL_PAPER_VERSION_DOI"
+  authors:
+    - family-names: "Saliba"
+      given-names: "Toufi"
+    - family-names: "Moir"
+      given-names: "Robert"
+    - family-names: "Toliver"
+      given-names: "Dann"
+    - family-names: "Herda"
+      given-names: "Patrick"
+    - family-names: "Rowe"
+      given-names: "Barry"
