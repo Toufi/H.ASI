@@ -1,6 +1,10 @@
 # HASI
 
-## Human associated consensus and sovereign cooperation
+> ##  *"HASI is a technical protocol that can be implemented by many, if you choose to notify us before you begin we would so appreciate it.  "*
+
+## **HASI** serves as a deterministic mechanism to optimize and secure conditions for human flourishing, prosperity, and well-being in the post-ASI 1.0 provides it is implemented prior to **ASI 0.1**
+
+
 
 **White paper v0.828d · Manuscript dated 5 October 2026**  
 **Authors:** Toufi Saliba, Robert Moir, Dann Toliver, Patrick Herda and Barry Rowe.
@@ -9,6 +13,12 @@ HASI proposes a voluntary relationship between humans and increasingly capable A
 
 The proposal combines that decision mechanism with private human-controlled context, bounded agent authority and guardian review of sensitive releases. HASI is intended to complement existing AI safety, security and governance work.
 
+HASI might be expressed as H+ASI as in Human + Artificial Super Intelligence, or HA+SI as in Human Agents + Super Intelligence or even HAS+I or HASI++.  
+
+WHY HASI: A Mutually Beneficial Symbiotic Relationship betweeh Humans and ASI might be the only option for humanity to not only prolonge its existence but an ongoing amelioration of life qualities for every human being.  HASI is carefully designed not to be extractive but additive, sovereign, optional and potentially multiplicative.
+
+Ensuring interoperability can be accomplished by utilising a branch of the binary tree of Earth64 Data Structure which can be achieved at no licensing cost to the first 16 HASI implementations so long as ascription, notifications and attribution is applied to simply notify and acknowledge the authors. 
+
 **Status:** Protocol principles and reference architecture for public and technical review. This repository publishes the research proposal and its documents. The score alone does not establish agreement, finality or an honest majority; the paper states the remaining implementation and proof obligations.
 
 **Project home:** [HASI.MOSAIC.DIRECTORY](https://hasi.mosaic.directory/)  
@@ -16,10 +26,12 @@ The proposal combines that decision mechanism with private human-controlled cont
 
 ## Read the documents
 
-| Document | Read on GitHub | Download PDF | Editable Word |
-|---|---|---|---|
-| Full white paper — 36 pages | [Markdown](paper/HASI_White_Paper_v0.828d.md) | [PDF](paper/HASI_White_Paper_v0.828d.pdf) | [DOCX](paper/HASI_White_Paper_v0.828d.docx) |
+
+| Document                    | Read on GitHub                                        | Download PDF                                      | Editable Word                                       |
+| --------------------------- | ----------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- |
+| Full white paper — 36 pages | [Markdown](paper/HASI_White_Paper_v0.828d.md)         | [PDF](paper/HASI_White_Paper_v0.828d.pdf)         | [DOCX](paper/HASI_White_Paper_v0.828d.docx)         |
 | Technical summary — 9 pages | [Markdown](summary/HASI_Technical_Summary_v0.828d.md) | [PDF](summary/HASI_Technical_Summary_v0.828d.pdf) | [DOCX](summary/HASI_Technical_Summary_v0.828d.docx) |
+
 
 Start with the technical summary for the mechanism and assumptions. The full paper includes a plain-language explanation in Appendix A, minimum conformance cases in Appendix B and acknowledgments of complementary AI safety efforts in Appendix C.
 
